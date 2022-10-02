@@ -1,6 +1,6 @@
 # login_social_media
 
--This app allows  you to sign with google and sign with facebook and you can change language .
+- [This app allows  you to sign with google and sign with facebook and you can change language .]
 -Used Flutter with Bloc to signin
 
 ## Getting Started
