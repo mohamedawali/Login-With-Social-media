@@ -5,7 +5,11 @@
 
 # Screen
 ## Login Screen
-https://github.com/mohamedawali/Login-with-Social-Media/issues/1#issue-1393751571
+- English Mode
+![Untitled2](https://user-images.githubusercontent.com/103155342/193454436-fb4b54dc-1a25-4e81-8444-c60e66ed239c.png)
+- Arabic Mode
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
